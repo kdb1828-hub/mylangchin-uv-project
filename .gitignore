@@ -17,3 +17,5 @@ db/
 
 # gradio log
 03ChatBot/.gradio
+
+faiss_*/
